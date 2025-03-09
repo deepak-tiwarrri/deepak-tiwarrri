@@ -30,17 +30,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🌱 Currently Learning
+## 🌱 *Currently Learning*
 - Advanced Backend Development (Node.js, Express.js, MongoDB)
 - Cloud Computing (Azure, AWS)
 - DevOps & CI/CD Pipelines
 
-## 🎯 2024 Goals
+## 🎯 *2024 Goals*
 ✅ Build and optimize full-stack applications <br>
 ✅ Improve system design and architecture skills<br>
 ✅ Contribute to open-source projects
 
-## ⚡ Fun Facts
+## ⚡ *Fun Facts*
 🎵 Love listening to music and singing  
 ♟️ Passionate about chess  
 📖 Enjoy reading books

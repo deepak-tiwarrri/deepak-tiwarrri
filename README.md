@@ -8,9 +8,8 @@
 
 - I have a passion for creating web applications that are scalable, performant, and user-friendly.
 
-- I have **2.3 years of experience**  working with modern web technologies.
+- I have **2.5 years of experience**  working with modern web technologies.
 
-- Currently, I'm exploring **backend development with Node.js and MongoDB** to enhance my full-stack skills.
 
 
 ## 💡 *Tech Stack & Tools*:
@@ -40,31 +39,42 @@
 
 ## 🎯 *2024 Goals*
 ✅ Build and optimize full-stack applications <br>
-✅ Improve system design and architecture skills<br>
+✅ Improve system design and architecture skills of frotend<br>
 ✅ Contribute to open-source projects
 
 ## ⚡ *Fun Facts*
-🎵 Love listening to music and singing  
-♟️ Passionate about chess  
+🎵 Love listening to music and watching movies 
+🏃‍♀️‍➡️ Passionate about running  
 📖 Enjoy reading books
 
 ---
 ## 📊 *GitHub Stats*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak483&show_icons=true&theme=tokyonight&count_private=true" alt="Deepak's GitHub Stats" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak483&theme=tokyonight" alt="GitHub Profile Summary" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak483&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="left" style="display: flex; flex-direction: column; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak483&show_icons=true&theme=tokyonight&count_private=true" alt="Deepak's GitHub Stats" width="50%" height="auto" style="margin-bottom: 10px;" />
+  <img src="https://streak-stats.demolab.com/?user=Deepak483&theme=tokyonight" alt="GitHub Streak" width="50%" height="auto" style="margin-bottom: 10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak483&theme=tokyonight" alt="GitHub Profile Summary" width="50%" height="auto" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak483&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" height="auto" style="margin-bottom: 10px;" />
 </p>
 
 ---
 
 ## 🔥 *Follow Me*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-tiwarrri/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deepak483)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/deepak_tiwarrri)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepak_tiwarrri/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarideepak8707@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/deepak-tiwarrri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Deepak483">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/deepak_tiwarrri">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/deepak_tiwarrri/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:tiwarideepak8707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>

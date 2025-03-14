@@ -54,8 +54,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepak483&show_icons=true&theme=tokyonight&count_private=true" alt="Deepak's GitHub Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Deepak483&theme=tokyonight" alt="GitHub Streak" />
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak483&theme=tokyonight" alt="GitHub Profile Summary" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak483&layout=compact&theme=tokyonight" alt="Top Languages" />

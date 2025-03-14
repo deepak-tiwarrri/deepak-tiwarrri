@@ -2,7 +2,7 @@
 
 **`Frontend Developer (Cinephile/Musicophile)`**
 
-## 🚀 *About Me*
+## 🚀 About Me
 
 - I'm a **Full Stack Developer** but currently working as _Frontend Developer_ while expanding and learning backend skillset.
 
@@ -12,7 +12,7 @@
 
 
 
-## 💡 *Tech Stack & Tools*:
+## 💡 Tech Stack & Tools:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,24 +32,24 @@
 ![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 
-## 🌱 *Currently Learning*
+## 🌱 Currently Learning
 - Advanced Backend Development (Node.js, Express.js, MongoDB)
 - Cloud Computing (Azure, AWS)
 - DevOps & CI/CD Pipelines
 
-## 🎯 *2025 Goals*
+## 🎯 2025 Goals
 ✅ Build and optimize full-stack applications <br>
 ✅ Improve frontend system design and architecture skills <br>
 ✅ Contribute to open-source projects
 
-## ⚡ *Fun Facts*
-🎵 Love listening to music
-🏃‍♀️‍➡️ Passionate about running
-📖 Enjoy reading books
-🎞️ Love Cinema 
+## ⚡ Fun Facts
+🎵 Love listening to music  
+🎞️ Love Cinema  
+🏃‍♀️‍➡️ Passionate about running  
+📖 Enjoy reading books  
 
 ---
-## 📊 *GitHub Stats*
+## 📊 GitHub Stats
 
 <p align="left" style="display: flex; flex-direction: column; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepak483&show_icons=true&theme=tokyonight&count_private=true" alt="Deepak's GitHub Stats" width="50%" height="auto" style="margin-bottom: 10px;" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔥 *Follow Me*
+## 🔥 Follow Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deepak-tiwarrri/">
@@ -73,8 +73,5 @@
   </a>
   <a href="https://www.instagram.com/deepak_tiwarrri/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:tiwarideepak8707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>

@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="left" style="display: flex; flex-direction: column; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepak483&show_icons=true&theme=tokyonight&count_private=true" alt="Deepak's GitHub Stats" width="50%" height="auto" style="margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak-tiwarrri&show_icons=true&theme=tokyonight&count_private=true" alt="Deepak's GitHub Stats" width="50%" height="auto" style="margin-bottom: 10px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepak483&theme=tokyonight" alt="GitHub Profile Summary" width="50%" height="auto" style="margin-bottom: 10px;" />
 
 </p>
@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/deepak-tiwarrri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Deepak483">
+  <a href="https://github.com/deepak-tiwarrri">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/deepak_tiwarrri">
